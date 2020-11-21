@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  18 NOV 2020 01:44
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  21 NOV 2020 05:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -469,6 +469,12 @@ LaTeX Info: Redefining \nameref on input line 32.
 
 Package hyperref Warning: Rerun to get /PageLabels entry.
 
+
+Overfull \hbox (28.44476pt too wide) in paragraph at lines 38--39
+\TU/HelveticaNeueLight(0)/m/n/30 Kumaresh\TU/HelveticaNeueLight(0)/b/n/30 Selva
+kumar  
+ []
+
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -476,7 +482,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 LaTeX Font Warning: Font shape `TU/HelveticaNeueLight(0)/m/sc' undefined
 (Font)              using `TU/HelveticaNeueLight(0)/m/n' instead on input line 
-51.
+62.
 
 
 Package fontspec Info: Font family 'HelveticaNeueLight(1)' created for font
@@ -504,12 +510,13 @@ Package fontspec Info: Font family 'HelveticaNeueLight(1)' created for font
 
 LaTeX Font Warning: Font shape `TU/HelveticaNeueLight(1)/m/sc' undefined
 (Font)              using `TU/HelveticaNeueLight(1)/m/n' instead on input line 
-51.
+62.
 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 121.
 LaTeX Font Info:    Font shape `TU/HelveticaNeueLight(0)/m/sl' in size <10> not
  available
 (Font)              Font shape `TU/HelveticaNeueLight(0)/m/it' tried instead on
- input line 130.
+ input line 121.
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
 Make it at least 12.0pt.
@@ -523,29 +530,22 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 197--202
-
- []
-
-[2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 247.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 247.
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 247.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 247.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 121.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 121.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 121.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 247.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 121.
  ) 
 Here is how much of TeX's memory you used:
  11739 strings out of 479418
  228449 string characters out of 5884586
- 537911 words of memory out of 5000000
+ 535911 words of memory out of 5000000
  29133 multiletter control sequences out of 15000+600000
  532946 words of font info for 56 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 44i,11n,70p,335b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,11n,70p,327b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.pdf (3 pages).
+Output written on resume.pdf (1 page).
